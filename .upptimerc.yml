@@ -1,21 +1,28 @@
 owner: supleed2
 repo: status.8bit.lol
+user-agent: supleed2
 sites:
   - name: Nano
     url: https://nano.shuttleapp.rs/up
     icon: https://status.8bit.lol/nano.png
     maxResponseTime: 5000
     __dangerous__body_degraded_if_text_missing: Nano is up!
+  - name: Homepage (omg.lol)
+    url: https://8bit.lol/
+    icon: https://status.8bit.lol/prami.png
+    __dangerous__body_degraded_if_text_missing: (Aadi Desai) He/Him
 status-website:
   cname: status.8bit.lol
-  logoUrl: https://status.8bit.lol/nano.png
+  logoUrl: https://status.8bit.lol/8bit.png
   name: 8bit.lol Upptime
   theme: dark
   introTitle: Personal project uptime monitor and status page, powered entirely by Upptime and GitHub.
-  favicon: https://status.8bit.lol/nano.png
+  favicon: https://status.8bit.lol/8bit.png
   navbar:
     - title: Status
       href: /
+    - title: Homepage
+      href: https://8bit.lol/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 i18n:
