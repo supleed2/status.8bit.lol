@@ -22,17 +22,19 @@
     "url": "https://8bit.lol/",
     "icon": "https://status.8bit.lol/prami.png",
     "slug": "homepage-omg-lol",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 576,
-    "timeDay": 592,
-    "timeWeek": 576,
-    "timeMonth": 576,
-    "timeYear": 576,
-    "dailyMinutesDown": {}
+    "time": 612,
+    "timeDay": 674,
+    "timeWeek": 612,
+    "timeMonth": 612,
+    "timeYear": 612,
+    "dailyMinutesDown": {
+      "2024-03-28": 0
+    }
   }
 ]
