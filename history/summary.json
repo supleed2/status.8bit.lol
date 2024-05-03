@@ -4,19 +4,19 @@
     "url": "https://nano.shuttleapp.rs/up",
     "icon": "https://status.8bit.lol/nano.png",
     "slug": "nano",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.95%",
+    "status": "degraded",
+    "uptime": "99.96%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.96%",
     "time": 661,
     "timeDay": 968,
     "timeWeek": 1184,
     "timeMonth": 781,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2024-05-03": 60
+      "2024-05-03": 46
     }
   },
   {
