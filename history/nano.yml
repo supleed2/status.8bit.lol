@@ -1,7 +1,7 @@
 url: https://nano.shuttleapp.rs/up
-status: degraded
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-03T18:46:48.150Z
+status: up
+code: 200
+responseTime: 449
+lastUpdated: 2024-10-03T18:59:28.742Z
 startTime: 2024-02-11T15:55:58.980Z
 generator: Upptime <https://github.com/upptime/upptime>
