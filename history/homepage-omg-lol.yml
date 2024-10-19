@@ -1,7 +1,7 @@
 url: https://8bit.lol/
-status: up
-code: 200
-responseTime: 509
-lastUpdated: 2024-10-18T23:14:34.048Z
+status: degraded
+code: 0
+responseTime: 0
+lastUpdated: 2024-10-19T13:30:53.748Z
 startTime: 2024-03-25T13:37:32.266Z
 generator: Upptime <https://github.com/upptime/upptime>
