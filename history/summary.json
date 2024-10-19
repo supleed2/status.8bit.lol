@@ -27,7 +27,7 @@
     "url": "https://8bit.lol/",
     "icon": "https://status.8bit.lol/prami.png",
     "slug": "homepage-omg-lol",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.47%",
@@ -39,6 +39,7 @@
     "timeMonth": 873,
     "timeYear": 875,
     "dailyMinutesDown": {
+      "2024-10-19": 0,
       "2024-10-15": 53,
       "2024-09-27": 46,
       "2024-09-10": 33,
