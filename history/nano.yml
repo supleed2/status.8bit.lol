@@ -1,7 +1,7 @@
 url: https://nano-mqpw.shuttle.app/up
-status: up
-code: 200
-responseTime: 401
-lastUpdated: 2025-08-13T12:51:49.555Z
+status: degraded
+code: 404
+responseTime: 572
+lastUpdated: 2025-08-13T14:27:29.797Z
 startTime: 2024-02-11T15:55:58.980Z
 generator: Upptime <https://github.com/upptime/upptime>
